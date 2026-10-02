@@ -1,0 +1,42 @@
+
+> procuremate@1.0.0 test
+> tsx --test tests/*.test.ts
+
+✔ 16 live-source catalog snapshots contain integer amounts and provenance (0.8375ms)
+✔ planner ignores prompt injection, preserves fixed quantities, and creates three catalog-only options (1.121417ms)
+✔ single purchase reserves and spends budget; duplicate request does not capture twice (2.724625ms)
+✔ shipping over cap is blocked before any provider authorization (1.413292ms)
+✔ expired, revoked, wrong-category, wrong-merchant and changed address mandates are blocked (4.273917ms)
+✔ one-time mandate cannot authorize a different request (1.438083ms)
+✔ concurrent transactions cannot overspend cumulative budget (2.515ms)
+✔ payment rejection releases reservation and does not affect stock (1.615209ms)
+✔ timeout holds budget; explicit reconciliation completes without reauthorizing (2.595ms)
+✔ revocation during provider authorization prevents capture and releases hold (2.051709ms)
+✔ a changed quote during authorization cannot be captured under old amount (2.395709ms)
+✖ receipt is idempotent; refund affects funds; confirmed return affects stock once (3.17625ms)
+✔ inventory cannot go negative and consumption is recorded (0.647958ms)
+✔ replenishment subtracts in-transit stock and concurrent monitors do not duplicate payments (8.182917ms)
+✔ onboarding requires device details and filters by connectors (0.645208ms)
+✔ substitution policy binds explicit product IDs (0.8175ms)
+✔ frequency policy blocks immediate re-purchase even when budget remains (2.582792ms)
+✔ buyer cannot revoke or refund; server sessions cannot be switched via a role cookie (122.956416ms)
+✔ live Stripe keys are rejected before any call (0.196ms)
+✔ verified webhook replay is deduplicated and received inventory is not re-applied (3.619084ms)
+✔ audit chain internal checks pass after all operations (2.273625ms)
+ℹ tests 21
+ℹ suites 0
+ℹ pass 20
+ℹ fail 1
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 436.108917
+
+✖ failing tests:
+
+test at tests/core.test.ts:214:1
+✖ receipt is idempotent; refund affects funds; confirmed return affects stock once (3.17625ms)
+  TypeError: Cannot read properties of undefined (reading 'inTransit')
+      at TestContext.<anonymous> (/Users/pomelo/Desktop/hacku_副本/procuremate/tests/core.test.ts:224:48)
+      at async Test.run (node:internal/test_runner/test:1313:7)
+      at async Test.processPendingSubtests (node:internal/test_runner/test:897:7)

@@ -1,0 +1,11 @@
+node_modules/
+.next*/
+.cache/
+data/*.sqlite*
+.env*
+!.env.example
+test-results/
+playwright-report/
+*.tsbuildinfo
+next-env.d.ts
+artifacts/video-raw/

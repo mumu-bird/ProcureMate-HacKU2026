@@ -1,0 +1,23 @@
+slide                         density      maxGap  at       verdict
+cover #0                     editorial        0  -       ok
+split #1                     -              230  -       ok
+demo #2                      -              135  -       ok
+flow #3                      -              129  -       ok
+comparison #4                -              230  -       ok
+proof #5                     -              152  -       ok
+closing #6                   editorial        0  -       ok
+
+7/7 slides pass occupancy + legibility.
+
+visual richness (events per slide)
+slide                         family         sys  mk   verdict
+cover #0                     cover           1    3  ok
+split #1                     split-visual    1    4  ok
+demo #2                      split-visual    2    1  ok
+flow #3                      flow-diagram    2    1  ok
+comparison #4                table           1    1  ok
+proof #5                     metric-hero     0    4  ok
+closing #6                   closing         0    5  ok
+visual richness ok: 5/5 content slides carry visual weight
+
+⚠ palette: signal/accent colour covers 0.00% of the deck — near-monochrome. Fine if intentional; if the deck reads flat, give the signal real estate (a filled band, a chart series, a plate).

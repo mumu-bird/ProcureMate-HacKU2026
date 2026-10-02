@@ -1,0 +1,1842 @@
+{
+  "exportedAt": "2026-10-02T17:32:49.620Z",
+  "disclosure": "测试公司、库存与商户订单；商品为真实来源快照。哈希链仅检查导出内部一致性，不证明运营者无法重写。",
+  "products": [
+    {
+      "id": "coffee-white",
+      "name": "NESCAFÉ - 白咖啡",
+      "priceCents": 7400,
+      "category": "consumable",
+      "tags": [
+        "咖啡",
+        "补货"
+      ],
+      "connector": "Dolce Gusto",
+      "sourceUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground/nescafe-flat-white-eurobrand02",
+      "listingUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground.html",
+      "observedAt": "2026-10-02T17:01:14.710155+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "coffee-black",
+      "name": "NESCAFÉ - 長黑咖啡(特濃)",
+      "priceCents": 7400,
+      "category": "consumable",
+      "tags": [
+        "咖啡",
+        "补货"
+      ],
+      "connector": "Dolce Gusto",
+      "sourceUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground/nescafe-lungo-intenso-eurobrand05",
+      "listingUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground.html",
+      "observedAt": "2026-10-02T17:01:14.710155+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "coffee-mocha",
+      "name": "NESCAFÉ - 意式莫加咖啡",
+      "priceCents": 7400,
+      "category": "consumable",
+      "tags": [
+        "咖啡",
+        "补货"
+      ],
+      "connector": "Dolce Gusto",
+      "sourceUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground/nescafe-di-moka-eurobrand01",
+      "listingUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground.html",
+      "observedAt": "2026-10-02T17:01:14.710155+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "headset-jbl",
+      "name": "JBL TUNE 670NC Wireless On-ear Noise Cancelling Headphones - 4 colors (biz-JBLTUNE670NC) [Expected delivery date: 7-10 working days]",
+      "priceCents": 49900,
+      "category": "headset",
+      "tags": [
+        "administration"
+      ],
+      "connector": "Bluetooth",
+      "sourceUrl": "https://shop.theclub.com.hk/business-needs/new-arrivals/biz-jbltune670nc",
+      "listingUrl": "https://shop.theclub.com.hk/business-needs/new-arrivals.html?___store=en_US",
+      "observedAt": "2026-10-02T17:01:10.017455+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "charger-belkin",
+      "name": "Belkin BoostCharge Pro 108W 4-Ports PD GaN Off-The-Wall Charger (WCH010MYWH) [Expected delivery date: 7-10 working days]",
+      "priceCents": 65900,
+      "category": "charger",
+      "tags": [
+        "developer",
+        "designer"
+      ],
+      "connector": "USB-C",
+      "sourceUrl": "https://shop.theclub.com.hk/business-needs/new-arrivals/belkin-wch010mywh",
+      "listingUrl": "https://shop.theclub.com.hk/business-needs/new-arrivals.html?___store=en_US",
+      "observedAt": "2026-10-02T17:01:10.017455+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "dock-belkin",
+      "name": "Belkin Connect USB-C 6-in-1 Core GaN Dock 130W (INC018VFBK) [Expected delivery date: 7-10 working days]",
+      "priceCents": 97900,
+      "category": "dock",
+      "tags": [
+        "developer",
+        "designer"
+      ],
+      "connector": "USB-C",
+      "sourceUrl": "https://shop.theclub.com.hk/business-needs/new-arrivals/belkin-inc018vfbk",
+      "listingUrl": "https://shop.theclub.com.hk/business-needs/new-arrivals.html?___store=en_US",
+      "observedAt": "2026-10-02T17:01:10.017455+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "headset-zone",
+      "name": "Logitech - ZONE VIBE 100 WIRELESS HEADSET (GRAPHITE/OFF WHITE/ROSE)",
+      "priceCents": 64900,
+      "category": "headset",
+      "tags": [
+        "designer",
+        "developer"
+      ],
+      "connector": "Bluetooth",
+      "sourceUrl": "https://shop.theclub.com.hk/logitech-zone-vibe-100-wireless-headset-graphite-off-white-rose-gc-981-0012-all",
+      "listingUrl": "https://shop.theclub.com.hk/brand/logitech?___store=en_US&clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:07.190306+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "webcam-brio",
+      "name": "Logitech Brio 300 Full HD webcam",
+      "priceCents": 39900,
+      "category": "webcam",
+      "tags": [
+        "administration",
+        "developer"
+      ],
+      "connector": "USB-C",
+      "sourceUrl": "https://shop.theclub.com.hk/logitech-brio-300-full-hd-webcam-gcbrio300-all",
+      "listingUrl": "https://shop.theclub.com.hk/brand/logitech?___store=en_US&clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:07.190306+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "mouse-lift",
+      "name": "Logitech - Lift Vertical Ergonomic Mouse (Graphite / Offwhite / Pink / SAND)",
+      "priceCents": 36900,
+      "category": "mouse",
+      "tags": [
+        "designer"
+      ],
+      "connector": "USB-A",
+      "sourceUrl": "https://shop.theclub.com.hk/logitech-lift-vertical-ergonomic-mouse-graphite-offwhite-pink-gc-liftvert-all",
+      "listingUrl": "https://shop.theclub.com.hk/brand/logitech?___store=en_US&clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:07.190306+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "mouse-m650",
+      "name": "Logitech - SIGNATURE M650 Silent Wireless mouse (Graphite / Rose / Off White)",
+      "priceCents": 34900,
+      "category": "mouse",
+      "tags": [
+        "administration",
+        "developer"
+      ],
+      "connector": "USB-A",
+      "sourceUrl": "https://shop.theclub.com.hk/logitech-signature-m650-silent-wireless-mouse-graphite-rose-off-white-gc-m650-all",
+      "listingUrl": "https://shop.theclub.com.hk/brand/logitech?___store=en_US&clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:07.190306+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "combo-mk470",
+      "name": "Logitech - MK470 Ultra-slim Wireless Keyboard and Mouse Combo (English Version) (White)",
+      "priceCents": 34900,
+      "category": "keyboard",
+      "tags": [
+        "administration"
+      ],
+      "connector": "USB-A",
+      "sourceUrl": "https://shop.theclub.com.hk/logitech-mk470-ultra-slim-wireless-keyboard-and-mouse-combo-english-version-white-gc-920-009183",
+      "listingUrl": "https://shop.theclub.com.hk/brand/logitech?___store=en_US&clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:07.190306+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "keyboard-k580",
+      "name": "Logitech - K580 Slim Multi-Device Keyboard (English Version) (Graphite / White/ Rose)",
+      "priceCents": 29900,
+      "category": "keyboard",
+      "tags": [
+        "administration",
+        "developer"
+      ],
+      "connector": "USB-A",
+      "sourceUrl": "https://shop.theclub.com.hk/logitech-k580-slim-multi-device-keyboard-english-version-graphite-white-rose-gc-k580en-all",
+      "listingUrl": "https://shop.theclub.com.hk/brand/logitech?___store=en_US&clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:07.190306+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": "采购模板要求，仍需按具体型号确认兼容性。"
+    },
+    {
+      "id": "gift-bottle",
+      "name": "Thermos - 500毫升真空控溫瓶 (2色可選)",
+      "priceCents": 16800,
+      "category": "gift",
+      "tags": [
+        "简约",
+        "实用"
+      ],
+      "connector": null,
+      "sourceUrl": "https://shop.theclub.com.hk/thermos-500ml-vacuum-insulated-bottle-2-colors-option-fei-501-mo",
+      "listingUrl": "https://shop.theclub.com.hk/brand/thermos?clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:04.523146+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": null
+    },
+    {
+      "id": "gift-purple",
+      "name": "Thermos - 480毫升真空保溫瓶 – 粉霧紫",
+      "priceCents": 16800,
+      "category": "gift",
+      "tags": [
+        "温暖",
+        "简约"
+      ],
+      "connector": null,
+      "sourceUrl": "https://shop.theclub.com.hk/thermos-480ml-vacuum-insulated-bottle-jmz-481-pl",
+      "listingUrl": "https://shop.theclub.com.hk/brand/thermos?clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:04.523146+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": null
+    },
+    {
+      "id": "gift-tritan",
+      "name": "Thermos - Tritan 710ml 搖搖杯 (6色可選)",
+      "priceCents": 13800,
+      "category": "gift",
+      "tags": [
+        "活力",
+        "实用"
+      ],
+      "connector": null,
+      "sourceUrl": "https://shop.theclub.com.hk/thermos-tritan-710ml-shaker-bottle-6-colors-option-tp4086-mo",
+      "listingUrl": "https://shop.theclub.com.hk/brand/thermos?clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:04.523146+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": null
+    },
+    {
+      "id": "gift-flask",
+      "name": "Thermos-350毫升真空保溫杯",
+      "priceCents": 26000,
+      "category": "gift",
+      "tags": [
+        "简约",
+        "实用"
+      ],
+      "connector": null,
+      "sourceUrl": "https://shop.theclub.com.hk/thermos-350ml-vacuum-insulated-mug",
+      "listingUrl": "https://shop.theclub.com.hk/brand/thermos?clubpoint_product=all",
+      "observedAt": "2026-10-02T17:01:04.523146+00:00",
+      "priceBasis": "merchant_listing_snapshot",
+      "shippingCents": 8000,
+      "shippingSource": "https://shop.theclub.com.hk/shipping-policy?___store=en_US",
+      "shippingNote": "标准住宅/办公派送费规则快照；商品特殊派送与实时库存未验证。测试商户采用该规则，不代表真实下单报价。",
+      "stockVerified": false,
+      "compatibilityNote": null
+    }
+  ],
+  "quotes": [
+    {
+      "id": "quote_b7e2b48b-d68",
+      "requestId": "request_435e1112-8b7",
+      "scenario": "onboarding",
+      "optionIndex": 2,
+      "title": "另一种选择",
+      "lines": [
+        {
+          "productId": "keyboard-k580",
+          "name": "Logitech - K580 Slim Multi-Device Keyboard (English Version) (Graphite / White/ Rose)",
+          "category": "keyboard",
+          "quantity": 1,
+          "unitCents": 29900,
+          "sourceUrl": "https://shop.theclub.com.hk/logitech-k580-slim-multi-device-keyboard-english-version-graphite-white-rose-gc-k580en-all",
+          "observedAt": "2026-10-02T17:01:07.190306+00:00"
+        },
+        {
+          "productId": "headset-zone",
+          "name": "Logitech - ZONE VIBE 100 WIRELESS HEADSET (GRAPHITE/OFF WHITE/ROSE)",
+          "category": "headset",
+          "quantity": 1,
+          "unitCents": 64900,
+          "sourceUrl": "https://shop.theclub.com.hk/logitech-zone-vibe-100-wireless-headset-graphite-off-white-rose-gc-981-0012-all",
+          "observedAt": "2026-10-02T17:01:07.190306+00:00"
+        }
+      ],
+      "subtotalCents": 94800,
+      "shippingCents": 8000,
+      "totalCents": 102800,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "按 developer 岗位与 USB-A / USB-C / Bluetooth 接口筛选。",
+      "createdAt": "2026-10-02T17:32:34.569Z",
+      "expiresAt": "2026-10-03T17:32:34.569Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。",
+        "接口已按采购模板筛选，具体型号兼容性需负责人复核。"
+      ],
+      "need": {
+        "scenario": "onboarding",
+        "title": "新同事 · 办公配件包",
+        "brief": "为新同事准备工作配件，根据岗位与已有设备筛选。",
+        "people": 1,
+        "budgetCents": 200000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "sku": "coffee-mocha",
+        "quantity": 16
+      }
+    },
+    {
+      "id": "quote_f7008fe5-e69",
+      "requestId": "request_435e1112-8b7",
+      "scenario": "onboarding",
+      "optionIndex": 1,
+      "title": "备选方案",
+      "lines": [
+        {
+          "productId": "keyboard-k580",
+          "name": "Logitech - K580 Slim Multi-Device Keyboard (English Version) (Graphite / White/ Rose)",
+          "category": "keyboard",
+          "quantity": 1,
+          "unitCents": 29900,
+          "sourceUrl": "https://shop.theclub.com.hk/logitech-k580-slim-multi-device-keyboard-english-version-graphite-white-rose-gc-k580en-all",
+          "observedAt": "2026-10-02T17:01:07.190306+00:00"
+        },
+        {
+          "productId": "webcam-brio",
+          "name": "Logitech Brio 300 Full HD webcam",
+          "category": "webcam",
+          "quantity": 1,
+          "unitCents": 39900,
+          "sourceUrl": "https://shop.theclub.com.hk/logitech-brio-300-full-hd-webcam-gcbrio300-all",
+          "observedAt": "2026-10-02T17:01:07.190306+00:00"
+        }
+      ],
+      "subtotalCents": 69800,
+      "shippingCents": 8000,
+      "totalCents": 77800,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "按 developer 岗位与 USB-A / USB-C / Bluetooth 接口筛选。",
+      "createdAt": "2026-10-02T17:32:34.569Z",
+      "expiresAt": "2026-10-03T17:32:34.569Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。",
+        "接口已按采购模板筛选，具体型号兼容性需负责人复核。"
+      ],
+      "need": {
+        "scenario": "onboarding",
+        "title": "新同事 · 办公配件包",
+        "brief": "为新同事准备工作配件，根据岗位与已有设备筛选。",
+        "people": 1,
+        "budgetCents": 200000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "sku": "coffee-mocha",
+        "quantity": 16
+      }
+    },
+    {
+      "id": "quote_31cb0666-49d",
+      "requestId": "request_435e1112-8b7",
+      "scenario": "onboarding",
+      "optionIndex": 0,
+      "title": "推荐方案",
+      "lines": [
+        {
+          "productId": "keyboard-k580",
+          "name": "Logitech - K580 Slim Multi-Device Keyboard (English Version) (Graphite / White/ Rose)",
+          "category": "keyboard",
+          "quantity": 1,
+          "unitCents": 29900,
+          "sourceUrl": "https://shop.theclub.com.hk/logitech-k580-slim-multi-device-keyboard-english-version-graphite-white-rose-gc-k580en-all",
+          "observedAt": "2026-10-02T17:01:07.190306+00:00"
+        },
+        {
+          "productId": "mouse-m650",
+          "name": "Logitech - SIGNATURE M650 Silent Wireless mouse (Graphite / Rose / Off White)",
+          "category": "mouse",
+          "quantity": 1,
+          "unitCents": 34900,
+          "sourceUrl": "https://shop.theclub.com.hk/logitech-signature-m650-silent-wireless-mouse-graphite-rose-off-white-gc-m650-all",
+          "observedAt": "2026-10-02T17:01:07.190306+00:00"
+        }
+      ],
+      "subtotalCents": 64800,
+      "shippingCents": 8000,
+      "totalCents": 72800,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "按 developer 岗位与 USB-A / USB-C / Bluetooth 接口筛选。",
+      "createdAt": "2026-10-02T17:32:34.569Z",
+      "expiresAt": "2026-10-03T17:32:34.569Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。",
+        "接口已按采购模板筛选，具体型号兼容性需负责人复核。"
+      ],
+      "need": {
+        "scenario": "onboarding",
+        "title": "新同事 · 办公配件包",
+        "brief": "为新同事准备工作配件，根据岗位与已有设备筛选。",
+        "people": 1,
+        "budgetCents": 200000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "sku": "coffee-mocha",
+        "quantity": 16
+      }
+    },
+    {
+      "id": "quote_446b098e-d5c",
+      "requestId": "request_e113be9f-609",
+      "scenario": "replenishment",
+      "optionIndex": 0,
+      "title": "推荐方案",
+      "lines": [
+        {
+          "productId": "coffee-mocha",
+          "name": "NESCAFÉ - 意式莫加咖啡",
+          "category": "consumable",
+          "quantity": 16,
+          "unitCents": 7400,
+          "sourceUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground/nescafe-di-moka-eurobrand01",
+          "observedAt": "2026-10-02T17:01:14.710155+00:00"
+        }
+      ],
+      "subtotalCents": 118400,
+      "shippingCents": 8000,
+      "totalCents": 126400,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "补至目标库存，本次 16 盒；已有在途量已扣除。",
+      "createdAt": "2026-10-02T17:32:06.647Z",
+      "expiresAt": "2026-10-03T17:32:06.647Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。"
+      ],
+      "need": {
+        "scenario": "replenishment",
+        "title": "办公室补货 · NESCAFÉ - 意式莫加咖啡",
+        "brief": "根据库存阈值补货",
+        "people": 1,
+        "budgetCents": 200000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "sku": "coffee-mocha",
+        "quantity": 16
+      }
+    },
+    {
+      "id": "quote_8a551341-338",
+      "requestId": "request_d672f0f0-33e",
+      "scenario": "event",
+      "optionIndex": 2,
+      "title": "超出需求预算",
+      "lines": [
+        {
+          "productId": "gift-flask",
+          "name": "Thermos-350毫升真空保溫杯",
+          "category": "gift",
+          "quantity": 10,
+          "unitCents": 26000,
+          "sourceUrl": "https://shop.theclub.com.hk/thermos-350ml-vacuum-insulated-mug",
+          "observedAt": "2026-10-02T17:01:04.523146+00:00"
+        }
+      ],
+      "subtotalCents": 260000,
+      "shippingCents": 8000,
+      "totalCents": 268000,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "10 位参与者每人 1 件，优先匹配「简约」风格；按有效授权执行。",
+      "createdAt": "2026-10-02T17:30:42.468Z",
+      "expiresAt": "2026-10-03T17:30:42.468Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。"
+      ],
+      "need": {
+        "scenario": "event",
+        "title": "秋日团队日 · 欢迎礼品",
+        "brief": "为 10 位年轻同事准备团队活动礼品。希望实用、简约，每人一件，可以带回家继续使用。",
+        "people": 10,
+        "budgetCents": 250000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室"
+      }
+    },
+    {
+      "id": "quote_63737929-9b2",
+      "requestId": "request_d672f0f0-33e",
+      "scenario": "event",
+      "optionIndex": 1,
+      "title": "备选方案",
+      "lines": [
+        {
+          "productId": "gift-purple",
+          "name": "Thermos - 480毫升真空保溫瓶 – 粉霧紫",
+          "category": "gift",
+          "quantity": 10,
+          "unitCents": 16800,
+          "sourceUrl": "https://shop.theclub.com.hk/thermos-480ml-vacuum-insulated-bottle-jmz-481-pl",
+          "observedAt": "2026-10-02T17:01:04.523146+00:00"
+        }
+      ],
+      "subtotalCents": 168000,
+      "shippingCents": 8000,
+      "totalCents": 176000,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "10 位参与者每人 1 件，优先匹配「简约」风格；按有效授权执行。",
+      "createdAt": "2026-10-02T17:30:42.468Z",
+      "expiresAt": "2026-10-03T17:30:42.468Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。"
+      ],
+      "need": {
+        "scenario": "event",
+        "title": "秋日团队日 · 欢迎礼品",
+        "brief": "为 10 位年轻同事准备团队活动礼品。希望实用、简约，每人一件，可以带回家继续使用。",
+        "people": 10,
+        "budgetCents": 250000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室"
+      }
+    },
+    {
+      "id": "quote_d7714fa4-f87",
+      "requestId": "request_d672f0f0-33e",
+      "scenario": "event",
+      "optionIndex": 0,
+      "title": "推荐方案",
+      "lines": [
+        {
+          "productId": "gift-bottle",
+          "name": "Thermos - 500毫升真空控溫瓶 (2色可選)",
+          "category": "gift",
+          "quantity": 10,
+          "unitCents": 16800,
+          "sourceUrl": "https://shop.theclub.com.hk/thermos-500ml-vacuum-insulated-bottle-2-colors-option-fei-501-mo",
+          "observedAt": "2026-10-02T17:01:04.523146+00:00"
+        }
+      ],
+      "subtotalCents": 168000,
+      "shippingCents": 8000,
+      "totalCents": 176000,
+      "merchant": "The Club · 测试商户",
+      "address": "香港薄扶林道 · 公司办公室",
+      "currency": "HKD",
+      "reason": "10 位参与者每人 1 件，优先匹配「简约」风格；按有效授权执行。",
+      "createdAt": "2026-10-02T17:30:42.468Z",
+      "expiresAt": "2026-10-03T17:30:42.468Z",
+      "revision": 1,
+      "planner": "rules",
+      "warnings": [
+        "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+        "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+        "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+        "当前使用透明规则规划器；未连接语言模型。"
+      ],
+      "need": {
+        "scenario": "event",
+        "title": "秋日团队日 · 欢迎礼品",
+        "brief": "为 10 位年轻同事准备团队活动礼品。希望实用、简约，每人一件，可以带回家继续使用。",
+        "people": 10,
+        "budgetCents": 250000,
+        "style": "简约",
+        "job": "developer",
+        "connectors": [
+          "USB-A",
+          "USB-C",
+          "Bluetooth"
+        ],
+        "address": "香港薄扶林道 · 公司办公室"
+      }
+    }
+  ],
+  "mandates": [
+    {
+      "name": "日常补货 · 办公室补货 · NESCAFÉ - 意式莫加咖啡",
+      "quoteId": "quote_446b098e-d5c",
+      "scenario": "replenishment",
+      "capCents": 200000,
+      "totalCapCents": 200000,
+      "categories": [
+        "consumable"
+      ],
+      "merchants": [
+        "The Club · 测试商户"
+      ],
+      "methods": [
+        "card"
+      ],
+      "address": "香港薄扶林道 · 公司办公室",
+      "allowSubstitution": true,
+      "productIds": [
+        "coffee-mocha"
+      ],
+      "expiresAt": "2026-10-03T17:32:06.853Z",
+      "minIntervalSeconds": 60,
+      "id": "mandate_5d133878-5b4",
+      "requestId": null,
+      "createdAt": "2026-10-02T17:32:06.858Z",
+      "revokedAt": null,
+      "version": 1,
+      "rewardOwner": "company",
+      "actor": "manager",
+      "spent": 126400,
+      "reserved": 0
+    },
+    {
+      "name": "活动与礼品 · 秋日团队日 · 欢迎礼品",
+      "quoteId": "quote_63737929-9b2",
+      "scenario": "event",
+      "capCents": 168000,
+      "totalCapCents": 168000,
+      "categories": [
+        "gift"
+      ],
+      "merchants": [
+        "The Club · 测试商户"
+      ],
+      "methods": [
+        "card"
+      ],
+      "address": "香港薄扶林道 · 公司办公室",
+      "allowSubstitution": true,
+      "productIds": [
+        "gift-bottle",
+        "gift-purple",
+        "gift-flask"
+      ],
+      "expiresAt": "2026-10-03T17:31:52.454Z",
+      "minIntervalSeconds": 0,
+      "id": "mandate_33c7982a-c6a",
+      "requestId": "request_d672f0f0-33e",
+      "createdAt": "2026-10-02T17:31:52.472Z",
+      "revokedAt": null,
+      "version": 1,
+      "rewardOwner": "company",
+      "actor": "manager",
+      "spent": 0,
+      "reserved": 0
+    },
+    {
+      "name": "活动与礼品 · 秋日团队日 · 欢迎礼品",
+      "quoteId": "quote_d7714fa4-f87",
+      "scenario": "event",
+      "capCents": 250000,
+      "totalCapCents": 250000,
+      "categories": [
+        "gift"
+      ],
+      "merchants": [
+        "The Club · 测试商户"
+      ],
+      "methods": [
+        "card"
+      ],
+      "address": "香港薄扶林道 · 公司办公室",
+      "allowSubstitution": true,
+      "productIds": [
+        "gift-bottle",
+        "gift-purple",
+        "gift-flask"
+      ],
+      "expiresAt": "2026-10-03T17:31:12.459Z",
+      "minIntervalSeconds": 0,
+      "id": "mandate_1f274f30-390",
+      "requestId": "request_d672f0f0-33e",
+      "createdAt": "2026-10-02T17:31:12.482Z",
+      "revokedAt": null,
+      "version": 1,
+      "rewardOwner": "company",
+      "actor": "manager",
+      "spent": 176000,
+      "reserved": 0
+    }
+  ],
+  "orders": [
+    {
+      "id": "order_1635ac61-a46",
+      "quoteId": "quote_446b098e-d5c",
+      "quoteRevision": 1,
+      "mandateId": "mandate_5d133878-5b4",
+      "quote": {
+        "id": "quote_446b098e-d5c",
+        "requestId": "request_e113be9f-609",
+        "scenario": "replenishment",
+        "optionIndex": 0,
+        "title": "推荐方案",
+        "lines": [
+          {
+            "productId": "coffee-mocha",
+            "name": "NESCAFÉ - 意式莫加咖啡",
+            "category": "consumable",
+            "quantity": 16,
+            "unitCents": 7400,
+            "sourceUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground/nescafe-di-moka-eurobrand01",
+            "observedAt": "2026-10-02T17:01:14.710155+00:00"
+          }
+        ],
+        "subtotalCents": 118400,
+        "shippingCents": 8000,
+        "totalCents": 126400,
+        "merchant": "The Club · 测试商户",
+        "address": "香港薄扶林道 · 公司办公室",
+        "currency": "HKD",
+        "reason": "补至目标库存，本次 16 盒；已有在途量已扣除。",
+        "createdAt": "2026-10-02T17:32:06.647Z",
+        "expiresAt": "2026-10-03T17:32:06.647Z",
+        "revision": 1,
+        "planner": "rules",
+        "warnings": [
+          "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+          "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+          "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+          "当前使用透明规则规划器；未连接语言模型。"
+        ],
+        "need": {
+          "scenario": "replenishment",
+          "title": "办公室补货 · NESCAFÉ - 意式莫加咖啡",
+          "brief": "根据库存阈值补货",
+          "people": 1,
+          "budgetCents": 200000,
+          "style": "简约",
+          "job": "developer",
+          "connectors": [
+            "USB-A",
+            "USB-C",
+            "Bluetooth"
+          ],
+          "address": "香港薄扶林道 · 公司办公室",
+          "sku": "coffee-mocha",
+          "quantity": 16
+        }
+      },
+      "status": "received",
+      "paymentId": "sim_order_1635ac61-a46",
+      "provider": "simulated",
+      "behavior": "success",
+      "createdAt": "2026-10-02T17:32:06.890Z",
+      "updatedAt": "2026-10-02T17:32:22.468Z",
+      "receivedAt": "2026-10-02T17:32:22.468Z",
+      "error": null,
+      "paymentStage": "capture"
+    },
+    {
+      "id": "order_46a78119-eca",
+      "quoteId": "quote_63737929-9b2",
+      "quoteRevision": 1,
+      "mandateId": "mandate_33c7982a-c6a",
+      "quote": {
+        "id": "quote_63737929-9b2",
+        "requestId": "request_d672f0f0-33e",
+        "scenario": "event",
+        "optionIndex": 1,
+        "title": "备选方案",
+        "lines": [
+          {
+            "productId": "gift-purple",
+            "name": "Thermos - 480毫升真空保溫瓶 – 粉霧紫",
+            "category": "gift",
+            "quantity": 10,
+            "unitCents": 16800,
+            "sourceUrl": "https://shop.theclub.com.hk/thermos-480ml-vacuum-insulated-bottle-jmz-481-pl",
+            "observedAt": "2026-10-02T17:01:04.523146+00:00"
+          }
+        ],
+        "subtotalCents": 168000,
+        "shippingCents": 8000,
+        "totalCents": 176000,
+        "merchant": "The Club · 测试商户",
+        "address": "香港薄扶林道 · 公司办公室",
+        "currency": "HKD",
+        "reason": "10 位参与者每人 1 件，优先匹配「简约」风格；按有效授权执行。",
+        "createdAt": "2026-10-02T17:30:42.468Z",
+        "expiresAt": "2026-10-03T17:30:42.468Z",
+        "revision": 1,
+        "planner": "rules",
+        "warnings": [
+          "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+          "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+          "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+          "当前使用透明规则规划器；未连接语言模型。"
+        ],
+        "need": {
+          "scenario": "event",
+          "title": "秋日团队日 · 欢迎礼品",
+          "brief": "为 10 位年轻同事准备团队活动礼品。希望实用、简约，每人一件，可以带回家继续使用。",
+          "people": 10,
+          "budgetCents": 250000,
+          "style": "简约",
+          "job": "developer",
+          "connectors": [
+            "USB-A",
+            "USB-C",
+            "Bluetooth"
+          ],
+          "address": "香港薄扶林道 · 公司办公室"
+        }
+      },
+      "status": "blocked",
+      "paymentId": null,
+      "provider": "simulated",
+      "behavior": "success",
+      "createdAt": "2026-10-02T17:31:52.533Z",
+      "updatedAt": "2026-10-02T17:31:52.533Z",
+      "receivedAt": null,
+      "error": "含运费总额必须不超过 HK$1680.00；已花费、预留与本次采购之和必须在累计预算内",
+      "paymentStage": "authorize"
+    },
+    {
+      "id": "order_935a5e04-43f",
+      "quoteId": "quote_d7714fa4-f87",
+      "quoteRevision": 1,
+      "mandateId": "mandate_1f274f30-390",
+      "quote": {
+        "id": "quote_d7714fa4-f87",
+        "requestId": "request_d672f0f0-33e",
+        "scenario": "event",
+        "optionIndex": 0,
+        "title": "推荐方案",
+        "lines": [
+          {
+            "productId": "gift-bottle",
+            "name": "Thermos - 500毫升真空控溫瓶 (2色可選)",
+            "category": "gift",
+            "quantity": 10,
+            "unitCents": 16800,
+            "sourceUrl": "https://shop.theclub.com.hk/thermos-500ml-vacuum-insulated-bottle-2-colors-option-fei-501-mo",
+            "observedAt": "2026-10-02T17:01:04.523146+00:00"
+          }
+        ],
+        "subtotalCents": 168000,
+        "shippingCents": 8000,
+        "totalCents": 176000,
+        "merchant": "The Club · 测试商户",
+        "address": "香港薄扶林道 · 公司办公室",
+        "currency": "HKD",
+        "reason": "10 位参与者每人 1 件，优先匹配「简约」风格；按有效授权执行。",
+        "createdAt": "2026-10-02T17:30:42.468Z",
+        "expiresAt": "2026-10-03T17:30:42.468Z",
+        "revision": 1,
+        "planner": "rules",
+        "warnings": [
+          "价格来自商品页面快照；测试商户库存和订单为模拟，真实可售数量待商户确认。",
+          "派送按已采集的标准 HK$80 规则计算；特殊派送和交期未验证。",
+          "积分抵扣来源存在冲突，且未绑定经批准的公司奖励账户；不计入节省。",
+          "当前使用透明规则规划器；未连接语言模型。"
+        ],
+        "need": {
+          "scenario": "event",
+          "title": "秋日团队日 · 欢迎礼品",
+          "brief": "为 10 位年轻同事准备团队活动礼品。希望实用、简约，每人一件，可以带回家继续使用。",
+          "people": 10,
+          "budgetCents": 250000,
+          "style": "简约",
+          "job": "developer",
+          "connectors": [
+            "USB-A",
+            "USB-C",
+            "Bluetooth"
+          ],
+          "address": "香港薄扶林道 · 公司办公室"
+        }
+      },
+      "status": "received",
+      "paymentId": "sim_order_935a5e04-43f",
+      "provider": "simulated",
+      "behavior": "success",
+      "createdAt": "2026-10-02T17:31:12.513Z",
+      "updatedAt": "2026-10-02T17:31:28.471Z",
+      "receivedAt": "2026-10-02T17:31:28.471Z",
+      "error": null,
+      "paymentStage": "capture"
+    }
+  ],
+  "inventory": [
+    {
+      "productId": "coffee-mocha",
+      "name": "NESCAFÉ - 意式莫加咖啡",
+      "quantity": 20,
+      "safety": 4,
+      "target": 20,
+      "unit": "盒",
+      "sample": true,
+      "inTransit": 0,
+      "suggestion": 0
+    },
+    {
+      "productId": "coffee-black",
+      "name": "NESCAFÉ - 長黑咖啡(特濃)",
+      "quantity": 12,
+      "safety": 4,
+      "target": 20,
+      "unit": "盒",
+      "sample": true,
+      "inTransit": 0,
+      "suggestion": 0
+    },
+    {
+      "productId": "coffee-white",
+      "name": "NESCAFÉ - 白咖啡",
+      "quantity": 12,
+      "safety": 4,
+      "target": 20,
+      "unit": "盒",
+      "sample": true,
+      "inTransit": 0,
+      "suggestion": 0
+    },
+    {
+      "productId": "gift-bottle",
+      "name": "Thermos - 500毫升真空控溫瓶 (2色可選)",
+      "quantity": 10,
+      "safety": 0,
+      "target": 10,
+      "unit": "件",
+      "sample": true,
+      "inTransit": 0,
+      "suggestion": 0
+    }
+  ],
+  "audit": [
+    {
+      "seq": 21,
+      "id": "log_5a5e537d-d84",
+      "at": "2026-10-02T17:32:34.569Z",
+      "actor": "manager",
+      "action": "PLAN_CREATED",
+      "target": "request_435e1112-8b7",
+      "detail": {
+        "scenario": "onboarding",
+        "planner": "rules",
+        "quoteIds": [
+          "quote_31cb0666-49d",
+          "quote_f7008fe5-e69",
+          "quote_b7e2b48b-d68"
+        ],
+        "budgetCents": 200000
+      },
+      "previous_hash": "93581f19accdc090ec2e18cce1a9fdab1d04db85987d235e433468d5ea22fb03",
+      "hash": "fc7f0508db6a8c3680abac109406020aacd3db8f410f377610f96206f1a2b470"
+    },
+    {
+      "seq": 20,
+      "id": "log_142b1558-34a",
+      "at": "2026-10-02T17:32:22.468Z",
+      "actor": "manager",
+      "action": "GOODS_RECEIVED",
+      "target": "order_1635ac61-a46",
+      "detail": {
+        "lines": [
+          {
+            "productId": "coffee-mocha",
+            "name": "NESCAFÉ - 意式莫加咖啡",
+            "category": "consumable",
+            "quantity": 16,
+            "unitCents": 7400,
+            "sourceUrl": "https://shop.theclub.com.hk/promotions/coffee-corner/coffee-beans-capsule-ground/nescafe-di-moka-eurobrand01",
+            "observedAt": "2026-10-02T17:01:14.710155+00:00"
+          }
+        ]
+      },
+      "previous_hash": "fb7cebce3fa7ca85c092ab9a0887ed1efe64304b1511b38fbf1e2b6558671151",
+      "hash": "93581f19accdc090ec2e18cce1a9fdab1d04db85987d235e433468d5ea22fb03"
+    },
+    {
+      "seq": 19,
+      "id": "log_5cd8849f-8dd",
+      "at": "2026-10-02T17:32:06.891Z",
+      "actor": "payment",
+      "action": "PAYMENT_CONFIRMED",
+      "target": "order_1635ac61-a46",
+      "detail": {
+        "state": "succeeded",
+        "paymentId": "sim_order_1635ac61-a46"
+      },
+      "previous_hash": "47a9e65a1008a90345221c688d7663e4567bd7b80ba8a0df0d1c57c24c90e234",
+      "hash": "fb7cebce3fa7ca85c092ab9a0887ed1efe64304b1511b38fbf1e2b6558671151"
+    },
+    {
+      "seq": 18,
+      "id": "log_ee733aba-217",
+      "at": "2026-10-02T17:32:06.891Z",
+      "actor": "payment",
+      "action": "PAYMENT_CAPTURE",
+      "target": "order_1635ac61-a46",
+      "detail": {
+        "paymentId": "sim_order_1635ac61-a46"
+      },
+      "previous_hash": "a1ea4495b02a97461013996ed03cdbfdd2f5f535fffb13b3ec5b30baead46bb6",
+      "hash": "47a9e65a1008a90345221c688d7663e4567bd7b80ba8a0df0d1c57c24c90e234"
+    },
+    {
+      "seq": 17,
+      "id": "log_6f62b146-3ea",
+      "at": "2026-10-02T17:32:06.891Z",
+      "actor": "policy",
+      "action": "CAPTURE_ALLOWED",
+      "target": "order_1635ac61-a46",
+      "detail": {
+        "checks": [
+          {
+            "code": "ACTIVE",
+            "pass": true,
+            "message": "授权仍然有效"
+          },
+          {
+            "code": "EXPIRY",
+            "pass": true,
+            "message": "授权必须在有效期内"
+          },
+          {
+            "code": "SCENARIO",
+            "pass": true,
+            "message": "用途必须符合授权场景"
+          },
+          {
+            "code": "REQUEST",
+            "pass": true,
+            "message": "一次性授权只能用于指定采购需求"
+          },
+          {
+            "code": "CATEGORY",
+            "pass": true,
+            "message": "所有商品品类必须在授权内"
+          },
+          {
+            "code": "MERCHANT",
+            "pass": true,
+            "message": "商户必须在批准名单内"
+          },
+          {
+            "code": "METHOD",
+            "pass": true,
+            "message": "测试卡付款必须获准"
+          },
+          {
+            "code": "ADDRESS",
+            "pass": true,
+            "message": "收货地址必须与授权一致"
+          },
+          {
+            "code": "SUBSTITUTION",
+            "pass": true,
+            "message": "商品替换必须得到授权"
+          },
+          {
+            "code": "CAP",
+            "pass": true,
+            "message": "含运费总额必须不超过 HK$2000.00"
+          },
+          {
+            "code": "TOTAL_CAP",
+            "pass": true,
+            "message": "已花费、预留与本次采购之和必须在累计预算内"
+          },
+          {
+            "code": "FREQUENCY",
+            "pass": true,
+            "message": "采购频率必须符合授权"
+          },
+          {
+            "code": "QUOTE",
+            "pass": true,
+            "message": "报价版本、有效期与商品金额必须可核对"
+          },
+          {
+            "code": "REWARD_OWNER",
+            "pass": true,
+            "message": "个人奖励不能计入公司节省"
+          }
+        ],
+        "mandateVersion": 1
+      },
+      "previous_hash": "6d7b8dcb23f61ef8b401e7b116e8fa69cae932ceb25707e8e54b939d08636d96",
+      "hash": "a1ea4495b02a97461013996ed03cdbfdd2f5f535fffb13b3ec5b30baead46bb6"
+    },
+    {
+      "seq": 16,
+      "id": "log_92aee5f6-3fe",
+      "at": "2026-10-02T17:32:06.890Z",
+      "actor": "payment",
+      "action": "PAYMENT_AUTHORIZE",
+      "target": "order_1635ac61-a46",
+      "detail": {
+        "provider": "simulated",
+        "amount": 126400
+      },
+      "previous_hash": "0489a4a9cfc76c8a6ba99dd1223ff8d7d5935f61cd30ccdff9c535491ffec440",
+      "hash": "6d7b8dcb23f61ef8b401e7b116e8fa69cae932ceb25707e8e54b939d08636d96"
+    },
+    {
+      "seq": 15,
+      "id": "log_b8f69298-b06",
+      "at": "2026-10-02T17:32:06.890Z",
+      "actor": "manager",
+      "action": "BUDGET_RESERVED",
+      "target": "order_1635ac61-a46",
+      "detail": {
+        "checks": [
+          {
+            "code": "ACTIVE",
+            "pass": true,
+            "message": "授权仍然有效"
+          },
+          {
+            "code": "EXPIRY",
+            "pass": true,
+            "message": "授权必须在有效期内"
+          },
+          {
+            "code": "SCENARIO",
+            "pass": true,
+            "message": "用途必须符合授权场景"
+          },
+          {
+            "code": "REQUEST",
+            "pass": true,
+            "message": "一次性授权只能用于指定采购需求"
+          },
+          {
+            "code": "CATEGORY",
+            "pass": true,
+            "message": "所有商品品类必须在授权内"
+          },
+          {
+            "code": "MERCHANT",
+            "pass": true,
+            "message": "商户必须在批准名单内"
+          },
+          {
+            "code": "METHOD",
+            "pass": true,
+            "message": "测试卡付款必须获准"
+          },
+          {
+            "code": "ADDRESS",
+            "pass": true,
+            "message": "收货地址必须与授权一致"
+          },
+          {
+            "code": "SUBSTITUTION",
+            "pass": true,
+            "message": "商品替换必须得到授权"
+          },
+          {
+            "code": "CAP",
+            "pass": true,
+            "message": "含运费总额必须不超过 HK$2000.00"
+          },
+          {
+            "code": "TOTAL_CAP",
+            "pass": true,
+            "message": "已花费、预留与本次采购之和必须在累计预算内"
+          },
+          {
+            "code": "FREQUENCY",
+            "pass": true,
+            "message": "采购频率必须符合授权"
+          },
+          {
+            "code": "QUOTE",
+            "pass": true,
+            "message": "报价版本、有效期与商品金额必须可核对"
+          },
+          {
+            "code": "REWARD_OWNER",
+            "pass": true,
+            "message": "个人奖励不能计入公司节省"
+          },
+          {
+            "code": "REPLENISHMENT",
+            "pass": true,
+            "message": "补货数量不得超过当前需求；在途订单已计入。"
+          }
+        ],
+        "totalCents": 126400,
+        "quoteRevision": 1,
+        "mandateVersion": 1,
+        "paymentCalled": false
+      },
+      "previous_hash": "6bb68a9a5a30ab53dec1b5d0699bf0914cfbc705f09deba872ccf7cec9e313c7",
+      "hash": "0489a4a9cfc76c8a6ba99dd1223ff8d7d5935f61cd30ccdff9c535491ffec440"
+    },
+    {
+      "seq": 14,
+      "id": "log_2097030e-6d6",
+      "at": "2026-10-02T17:32:06.858Z",
+      "actor": "manager",
+      "action": "MANDATE_GRANTED",
+      "target": "mandate_5d133878-5b4",
+      "detail": {
+        "name": "日常补货 · 办公室补货 · NESCAFÉ - 意式莫加咖啡",
+        "quoteId": "quote_446b098e-d5c",
+        "scenario": "replenishment",
+        "capCents": 200000,
+        "totalCapCents": 200000,
+        "categories": [
+          "consumable"
+        ],
+        "merchants": [
+          "The Club · 测试商户"
+        ],
+        "methods": [
+          "card"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "allowSubstitution": true,
+        "productIds": [
+          "coffee-mocha"
+        ],
+        "expiresAt": "2026-10-03T17:32:06.853Z",
+        "minIntervalSeconds": 60,
+        "id": "mandate_5d133878-5b4",
+        "requestId": null,
+        "createdAt": "2026-10-02T17:32:06.858Z",
+        "revokedAt": null,
+        "version": 1,
+        "rewardOwner": "company",
+        "actor": "manager"
+      },
+      "previous_hash": "37eb118eb358453769e3f367aa9ba10442b0e4e11d43144bbe3d448f8833cc85",
+      "hash": "6bb68a9a5a30ab53dec1b5d0699bf0914cfbc705f09deba872ccf7cec9e313c7"
+    },
+    {
+      "seq": 13,
+      "id": "log_dbdde757-1f7",
+      "at": "2026-10-02T17:32:06.648Z",
+      "actor": "manager",
+      "action": "PLAN_CREATED",
+      "target": "request_e113be9f-609",
+      "detail": {
+        "scenario": "replenishment",
+        "planner": "rules",
+        "quoteIds": [
+          "quote_446b098e-d5c"
+        ],
+        "budgetCents": 200000
+      },
+      "previous_hash": "2c97d8407b10280f6415ce0d18fe58f48ecd29c57590c0549a5d0af280a575c0",
+      "hash": "37eb118eb358453769e3f367aa9ba10442b0e4e11d43144bbe3d448f8833cc85"
+    },
+    {
+      "seq": 12,
+      "id": "log_1cdecc86-49d",
+      "at": "2026-10-02T17:31:52.533Z",
+      "actor": "manager",
+      "action": "PURCHASE_BLOCKED",
+      "target": "order_46a78119-eca",
+      "detail": {
+        "checks": [
+          {
+            "code": "ACTIVE",
+            "pass": true,
+            "message": "授权仍然有效"
+          },
+          {
+            "code": "EXPIRY",
+            "pass": true,
+            "message": "授权必须在有效期内"
+          },
+          {
+            "code": "SCENARIO",
+            "pass": true,
+            "message": "用途必须符合授权场景"
+          },
+          {
+            "code": "REQUEST",
+            "pass": true,
+            "message": "一次性授权只能用于指定采购需求"
+          },
+          {
+            "code": "CATEGORY",
+            "pass": true,
+            "message": "所有商品品类必须在授权内"
+          },
+          {
+            "code": "MERCHANT",
+            "pass": true,
+            "message": "商户必须在批准名单内"
+          },
+          {
+            "code": "METHOD",
+            "pass": true,
+            "message": "测试卡付款必须获准"
+          },
+          {
+            "code": "ADDRESS",
+            "pass": true,
+            "message": "收货地址必须与授权一致"
+          },
+          {
+            "code": "SUBSTITUTION",
+            "pass": true,
+            "message": "商品替换必须得到授权"
+          },
+          {
+            "code": "CAP",
+            "pass": false,
+            "message": "含运费总额必须不超过 HK$1680.00"
+          },
+          {
+            "code": "TOTAL_CAP",
+            "pass": false,
+            "message": "已花费、预留与本次采购之和必须在累计预算内"
+          },
+          {
+            "code": "FREQUENCY",
+            "pass": true,
+            "message": "采购频率必须符合授权"
+          },
+          {
+            "code": "QUOTE",
+            "pass": true,
+            "message": "报价版本、有效期与商品金额必须可核对"
+          },
+          {
+            "code": "REWARD_OWNER",
+            "pass": true,
+            "message": "个人奖励不能计入公司节省"
+          }
+        ],
+        "totalCents": 176000,
+        "quoteRevision": 1,
+        "mandateVersion": 1,
+        "paymentCalled": false
+      },
+      "previous_hash": "05b6a5d58468adc017406e2e25d3be1b94a6023f1ad6c86b551bd9015e96980f",
+      "hash": "2c97d8407b10280f6415ce0d18fe58f48ecd29c57590c0549a5d0af280a575c0"
+    },
+    {
+      "seq": 11,
+      "id": "log_61d1f88b-e95",
+      "at": "2026-10-02T17:31:52.472Z",
+      "actor": "manager",
+      "action": "MANDATE_GRANTED",
+      "target": "mandate_33c7982a-c6a",
+      "detail": {
+        "name": "活动与礼品 · 秋日团队日 · 欢迎礼品",
+        "quoteId": "quote_63737929-9b2",
+        "scenario": "event",
+        "capCents": 168000,
+        "totalCapCents": 168000,
+        "categories": [
+          "gift"
+        ],
+        "merchants": [
+          "The Club · 测试商户"
+        ],
+        "methods": [
+          "card"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "allowSubstitution": true,
+        "productIds": [
+          "gift-bottle",
+          "gift-purple",
+          "gift-flask"
+        ],
+        "expiresAt": "2026-10-03T17:31:52.454Z",
+        "minIntervalSeconds": 0,
+        "id": "mandate_33c7982a-c6a",
+        "requestId": "request_d672f0f0-33e",
+        "createdAt": "2026-10-02T17:31:52.472Z",
+        "revokedAt": null,
+        "version": 1,
+        "rewardOwner": "company",
+        "actor": "manager"
+      },
+      "previous_hash": "db94ca4c548dbe0845429534b05c7675b129fd83f03954acf8fd7c9a977886aa",
+      "hash": "05b6a5d58468adc017406e2e25d3be1b94a6023f1ad6c86b551bd9015e96980f"
+    },
+    {
+      "seq": 10,
+      "id": "log_f4abab7d-01b",
+      "at": "2026-10-02T17:31:28.471Z",
+      "actor": "manager",
+      "action": "GOODS_RECEIVED",
+      "target": "order_935a5e04-43f",
+      "detail": {
+        "lines": [
+          {
+            "productId": "gift-bottle",
+            "name": "Thermos - 500毫升真空控溫瓶 (2色可選)",
+            "category": "gift",
+            "quantity": 10,
+            "unitCents": 16800,
+            "sourceUrl": "https://shop.theclub.com.hk/thermos-500ml-vacuum-insulated-bottle-2-colors-option-fei-501-mo",
+            "observedAt": "2026-10-02T17:01:04.523146+00:00"
+          }
+        ]
+      },
+      "previous_hash": "1dbf3f8d2463aa8f15d5c529d984374af6c70d612daf4caf2445224d4ef9f0e0",
+      "hash": "db94ca4c548dbe0845429534b05c7675b129fd83f03954acf8fd7c9a977886aa"
+    },
+    {
+      "seq": 9,
+      "id": "log_b5105f05-b4e",
+      "at": "2026-10-02T17:31:12.516Z",
+      "actor": "payment",
+      "action": "PAYMENT_CONFIRMED",
+      "target": "order_935a5e04-43f",
+      "detail": {
+        "state": "succeeded",
+        "paymentId": "sim_order_935a5e04-43f"
+      },
+      "previous_hash": "a98fb4a098ecb10e8b01cc0ce6ca0bc4413f181cc65afd1cd357d3f56f8f7ae0",
+      "hash": "1dbf3f8d2463aa8f15d5c529d984374af6c70d612daf4caf2445224d4ef9f0e0"
+    },
+    {
+      "seq": 8,
+      "id": "log_47240e36-5ef",
+      "at": "2026-10-02T17:31:12.516Z",
+      "actor": "payment",
+      "action": "PAYMENT_CAPTURE",
+      "target": "order_935a5e04-43f",
+      "detail": {
+        "paymentId": "sim_order_935a5e04-43f"
+      },
+      "previous_hash": "783591ca6337b0ead902b4b3a3d9b754a410aae9bdba544d357ab333a32ecabd",
+      "hash": "a98fb4a098ecb10e8b01cc0ce6ca0bc4413f181cc65afd1cd357d3f56f8f7ae0"
+    },
+    {
+      "seq": 7,
+      "id": "log_3d2be40a-c29",
+      "at": "2026-10-02T17:31:12.515Z",
+      "actor": "policy",
+      "action": "CAPTURE_ALLOWED",
+      "target": "order_935a5e04-43f",
+      "detail": {
+        "checks": [
+          {
+            "code": "ACTIVE",
+            "pass": true,
+            "message": "授权仍然有效"
+          },
+          {
+            "code": "EXPIRY",
+            "pass": true,
+            "message": "授权必须在有效期内"
+          },
+          {
+            "code": "SCENARIO",
+            "pass": true,
+            "message": "用途必须符合授权场景"
+          },
+          {
+            "code": "REQUEST",
+            "pass": true,
+            "message": "一次性授权只能用于指定采购需求"
+          },
+          {
+            "code": "CATEGORY",
+            "pass": true,
+            "message": "所有商品品类必须在授权内"
+          },
+          {
+            "code": "MERCHANT",
+            "pass": true,
+            "message": "商户必须在批准名单内"
+          },
+          {
+            "code": "METHOD",
+            "pass": true,
+            "message": "测试卡付款必须获准"
+          },
+          {
+            "code": "ADDRESS",
+            "pass": true,
+            "message": "收货地址必须与授权一致"
+          },
+          {
+            "code": "SUBSTITUTION",
+            "pass": true,
+            "message": "商品替换必须得到授权"
+          },
+          {
+            "code": "CAP",
+            "pass": true,
+            "message": "含运费总额必须不超过 HK$2500.00"
+          },
+          {
+            "code": "TOTAL_CAP",
+            "pass": true,
+            "message": "已花费、预留与本次采购之和必须在累计预算内"
+          },
+          {
+            "code": "FREQUENCY",
+            "pass": true,
+            "message": "采购频率必须符合授权"
+          },
+          {
+            "code": "QUOTE",
+            "pass": true,
+            "message": "报价版本、有效期与商品金额必须可核对"
+          },
+          {
+            "code": "REWARD_OWNER",
+            "pass": true,
+            "message": "个人奖励不能计入公司节省"
+          }
+        ],
+        "mandateVersion": 1
+      },
+      "previous_hash": "865cadc5c1f557368d13ac3e76b8de270d0e991665810e8773ad17240bbf755c",
+      "hash": "783591ca6337b0ead902b4b3a3d9b754a410aae9bdba544d357ab333a32ecabd"
+    },
+    {
+      "seq": 6,
+      "id": "log_4a4164d6-488",
+      "at": "2026-10-02T17:31:12.514Z",
+      "actor": "payment",
+      "action": "PAYMENT_AUTHORIZE",
+      "target": "order_935a5e04-43f",
+      "detail": {
+        "provider": "simulated",
+        "amount": 176000
+      },
+      "previous_hash": "9a527ae2bd4254465b3c4d4ccd0cc660619a9707657df144e599bf4daa61c6ce",
+      "hash": "865cadc5c1f557368d13ac3e76b8de270d0e991665810e8773ad17240bbf755c"
+    },
+    {
+      "seq": 5,
+      "id": "log_901057d2-950",
+      "at": "2026-10-02T17:31:12.513Z",
+      "actor": "manager",
+      "action": "BUDGET_RESERVED",
+      "target": "order_935a5e04-43f",
+      "detail": {
+        "checks": [
+          {
+            "code": "ACTIVE",
+            "pass": true,
+            "message": "授权仍然有效"
+          },
+          {
+            "code": "EXPIRY",
+            "pass": true,
+            "message": "授权必须在有效期内"
+          },
+          {
+            "code": "SCENARIO",
+            "pass": true,
+            "message": "用途必须符合授权场景"
+          },
+          {
+            "code": "REQUEST",
+            "pass": true,
+            "message": "一次性授权只能用于指定采购需求"
+          },
+          {
+            "code": "CATEGORY",
+            "pass": true,
+            "message": "所有商品品类必须在授权内"
+          },
+          {
+            "code": "MERCHANT",
+            "pass": true,
+            "message": "商户必须在批准名单内"
+          },
+          {
+            "code": "METHOD",
+            "pass": true,
+            "message": "测试卡付款必须获准"
+          },
+          {
+            "code": "ADDRESS",
+            "pass": true,
+            "message": "收货地址必须与授权一致"
+          },
+          {
+            "code": "SUBSTITUTION",
+            "pass": true,
+            "message": "商品替换必须得到授权"
+          },
+          {
+            "code": "CAP",
+            "pass": true,
+            "message": "含运费总额必须不超过 HK$2500.00"
+          },
+          {
+            "code": "TOTAL_CAP",
+            "pass": true,
+            "message": "已花费、预留与本次采购之和必须在累计预算内"
+          },
+          {
+            "code": "FREQUENCY",
+            "pass": true,
+            "message": "采购频率必须符合授权"
+          },
+          {
+            "code": "QUOTE",
+            "pass": true,
+            "message": "报价版本、有效期与商品金额必须可核对"
+          },
+          {
+            "code": "REWARD_OWNER",
+            "pass": true,
+            "message": "个人奖励不能计入公司节省"
+          }
+        ],
+        "totalCents": 176000,
+        "quoteRevision": 1,
+        "mandateVersion": 1,
+        "paymentCalled": false
+      },
+      "previous_hash": "f023e84a914b57d08a15d7dae026bf4b4f3f3b86398b610b3502fa4df0c91c6e",
+      "hash": "9a527ae2bd4254465b3c4d4ccd0cc660619a9707657df144e599bf4daa61c6ce"
+    },
+    {
+      "seq": 4,
+      "id": "log_027cfc55-7f8",
+      "at": "2026-10-02T17:31:12.482Z",
+      "actor": "manager",
+      "action": "MANDATE_GRANTED",
+      "target": "mandate_1f274f30-390",
+      "detail": {
+        "name": "活动与礼品 · 秋日团队日 · 欢迎礼品",
+        "quoteId": "quote_d7714fa4-f87",
+        "scenario": "event",
+        "capCents": 250000,
+        "totalCapCents": 250000,
+        "categories": [
+          "gift"
+        ],
+        "merchants": [
+          "The Club · 测试商户"
+        ],
+        "methods": [
+          "card"
+        ],
+        "address": "香港薄扶林道 · 公司办公室",
+        "allowSubstitution": true,
+        "productIds": [
+          "gift-bottle",
+          "gift-purple",
+          "gift-flask"
+        ],
+        "expiresAt": "2026-10-03T17:31:12.459Z",
+        "minIntervalSeconds": 0,
+        "id": "mandate_1f274f30-390",
+        "requestId": "request_d672f0f0-33e",
+        "createdAt": "2026-10-02T17:31:12.482Z",
+        "revokedAt": null,
+        "version": 1,
+        "rewardOwner": "company",
+        "actor": "manager"
+      },
+      "previous_hash": "7fddf0b73c4d60e119bc2f710385c6ce1ea8778a38c494efabcddd0168241531",
+      "hash": "f023e84a914b57d08a15d7dae026bf4b4f3f3b86398b610b3502fa4df0c91c6e"
+    },
+    {
+      "seq": 3,
+      "id": "log_75315a86-057",
+      "at": "2026-10-02T17:30:42.469Z",
+      "actor": "manager",
+      "action": "PLAN_CREATED",
+      "target": "request_d672f0f0-33e",
+      "detail": {
+        "scenario": "event",
+        "planner": "rules",
+        "quoteIds": [
+          "quote_d7714fa4-f87",
+          "quote_63737929-9b2",
+          "quote_8a551341-338"
+        ],
+        "budgetCents": 250000
+      },
+      "previous_hash": "42b238dc20425b5c40414937da4a7e1d517404275aadd7e70bf4b89b5c184162",
+      "hash": "7fddf0b73c4d60e119bc2f710385c6ce1ea8778a38c494efabcddd0168241531"
+    },
+    {
+      "seq": 2,
+      "id": "log_59a87fe0-0fe",
+      "at": "2026-10-02T17:30:23.592Z",
+      "actor": "manager",
+      "action": "LOGIN",
+      "target": "manager",
+      "detail": {
+        "at": "2026-10-02T17:30:23.591Z"
+      },
+      "previous_hash": "cb0aed799a10f4e09b7723a3c0742b4f92bd59140d0eaf2079580ef466fba861",
+      "hash": "42b238dc20425b5c40414937da4a7e1d517404275aadd7e70bf4b89b5c184162"
+    },
+    {
+      "seq": 1,
+      "id": "log_94b780c8-54d",
+      "at": "2026-10-02T17:30:15.787Z",
+      "actor": "system",
+      "action": "DEMO_INITIALIZED",
+      "target": "workspace",
+      "detail": {
+        "notice": "库存和公司为样例；商品价格为采集快照；无真实商户订单。",
+        "products": 16
+      },
+      "previous_hash": "GENESIS",
+      "hash": "cb0aed799a10f4e09b7723a3c0742b4f92bd59140d0eaf2079580ef466fba861"
+    }
+  ],
+  "auditValid": true,
+  "paymentProvider": "simulated",
+  "planner": "rules",
+  "measurements": []
+}

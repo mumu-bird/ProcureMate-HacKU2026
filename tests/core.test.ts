@@ -216,6 +216,10 @@ test("receipt is idempotent; refund affects funds; confirmed return affects stoc
   const m = mandate(q);
   const o = await purchase(buyer, q.id, m.id);
   const sku = q.lines[0].productId;
+  assert.ok(
+    inventory().find((i) => i.productId === sku),
+    "An ordered SKU is tracked before receipt",
+  );
   const before = inventory().find((i) => i.productId === sku)?.quantity || 0;
   const inTransit =
     inventory().find((i) => i.productId === sku)?.inTransit || 0;

@@ -149,6 +149,19 @@ export async function purchase(
       paymentCalled: false,
     });
     if (!blocked) {
+      // Register new SKUs before exposing an in-flight order. Physical quantity
+      // stays zero until receipt; one-off gift/accessory purchases do not create
+      // an automatic replenishment target.
+      for (const line of q.lines) {
+        db.prepare("INSERT OR IGNORE INTO inventory VALUES(?,?,?,?,?,?)").run(
+          line.productId,
+          0,
+          0,
+          0,
+          line.category === "consumable" ? "盒" : "件",
+          1,
+        );
+      }
       db.prepare("INSERT INTO usage VALUES(?,?,?,?)").run(
         o.id,
         m.id,
@@ -304,7 +317,7 @@ export function receive(actor: Actor, orderId: string) {
         l.productId,
         0,
         0,
-        l.quantity,
+        0,
         "件",
         1,
       );

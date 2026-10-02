@@ -66,7 +66,7 @@
       "url": "http://127.0.0.1:3100",
       "reuseExistingServer": false,
       "env": {
-        "PROCUREMATE_DB": "/tmp/procuremate-browser-1790963536808.sqlite",
+        "PROCUREMATE_DB": "/tmp/procuremate-browser-1790963971791.sqlite",
         "NEXT_BUILD_DIR": ".next-browser",
         "PAYMENT_PROVIDER": "simulated",
         "MODEL_API_KEY": ""
@@ -97,12 +97,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 4484,
+                  "duration": 5388,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-02T17:52:18.734Z",
+                  "startTime": "2026-10-02T17:59:34.268Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -131,12 +131,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2850,
+                  "duration": 3091,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-02T17:52:23.508Z",
+                  "startTime": "2026-10-02T17:59:39.881Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -165,12 +165,12 @@
                   "workerIndex": 0,
                   "parallelIndex": 0,
                   "status": "passed",
-                  "duration": 2299,
+                  "duration": 3651,
                   "errors": [],
                   "stdout": [],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2026-10-02T17:52:26.365Z",
+                  "startTime": "2026-10-02T17:59:42.979Z",
                   "annotations": [],
                   "attachments": []
                 }
@@ -188,8 +188,8 @@
   ],
   "errors": [],
   "stats": {
-    "startTime": "2026-10-02T17:52:16.811Z",
-    "duration": 11898.268,
+    "startTime": "2026-10-02T17:59:31.793Z",
+    "duration": 14879.328,
     "expected": 3,
     "skipped": 0,
     "unexpected": 0,
